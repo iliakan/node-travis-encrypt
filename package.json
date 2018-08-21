@@ -38,7 +38,7 @@
     "lodash.merge": "^3.3.2",
     "read-yaml": "^1.0.0",
     "travis-ci": "^2.0.3",
-    "ursa": "^0.9.1",
+    "ursa": "JoshKaufman/ursa",
     "write-yaml": "^0.2.2",
     "yargs": "^3.32.0"
   },
